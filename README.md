@@ -76,3 +76,11 @@ android {
 }
 ```
 
+### Bugsnag Manifest task fails
+
+Bugsnag has a feature branch with a temporary fix you can build a .jar off of:
+https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/40
+
+### Custom lint rules from library don't run
+
+Google is looking into this follow along: https://issuetracker.google.com/64952607
